@@ -1,0 +1,12 @@
+c:\users\m.susa\documents\visual studio 2017\Projects\CarDealership\Services\bin\Debug\Services.dll
+c:\users\m.susa\documents\visual studio 2017\Projects\CarDealership\Services\bin\Debug\Services.pdb
+c:\users\m.susa\documents\visual studio 2017\Projects\CarDealership\Services\bin\Debug\Entities.dll
+c:\users\m.susa\documents\visual studio 2017\Projects\CarDealership\Services\bin\Debug\Repositories.dll
+c:\users\m.susa\documents\visual studio 2017\Projects\CarDealership\Services\bin\Debug\Entities.pdb
+c:\users\m.susa\documents\visual studio 2017\Projects\CarDealership\Services\bin\Debug\Entities.dll.config
+c:\users\m.susa\documents\visual studio 2017\Projects\CarDealership\Services\bin\Debug\Repositories.pdb
+c:\users\m.susa\documents\visual studio 2017\Projects\CarDealership\Services\obj\Debug\Services.dll
+c:\users\m.susa\documents\visual studio 2017\Projects\CarDealership\Services\obj\Debug\Services.pdb
+c:\Users\m.susa\Documents\Visual Studio 2017\Projects\CarDealership\Services\obj\Debug\Services.csprojAssemblyReference.cache
+c:\Users\m.susa\Documents\Visual Studio 2017\Projects\CarDealership\Services\obj\Debug\Services.csproj.CoreCompileInputs.cache
+c:\Users\m.susa\Documents\Visual Studio 2017\Projects\CarDealership\Services\obj\Debug\Services.csproj.CopyComplete

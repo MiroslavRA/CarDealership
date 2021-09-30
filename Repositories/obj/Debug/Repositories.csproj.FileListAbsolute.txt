@@ -1,0 +1,10 @@
+c:\users\m.susa\documents\visual studio 2017\Projects\CarDealership\Repositories\bin\Debug\Repositories.dll
+c:\users\m.susa\documents\visual studio 2017\Projects\CarDealership\Repositories\bin\Debug\Repositories.pdb
+c:\users\m.susa\documents\visual studio 2017\Projects\CarDealership\Repositories\bin\Debug\Entities.dll
+c:\users\m.susa\documents\visual studio 2017\Projects\CarDealership\Repositories\bin\Debug\Entities.pdb
+c:\users\m.susa\documents\visual studio 2017\Projects\CarDealership\Repositories\bin\Debug\Entities.dll.config
+c:\users\m.susa\documents\visual studio 2017\Projects\CarDealership\Repositories\obj\Debug\Repositories.dll
+c:\users\m.susa\documents\visual studio 2017\Projects\CarDealership\Repositories\obj\Debug\Repositories.pdb
+c:\Users\m.susa\Documents\Visual Studio 2017\Projects\CarDealership\Repositories\obj\Debug\Repositories.csprojAssemblyReference.cache
+c:\Users\m.susa\Documents\Visual Studio 2017\Projects\CarDealership\Repositories\obj\Debug\Repositories.csproj.CoreCompileInputs.cache
+c:\Users\m.susa\Documents\Visual Studio 2017\Projects\CarDealership\Repositories\obj\Debug\Repositories.csproj.CopyComplete

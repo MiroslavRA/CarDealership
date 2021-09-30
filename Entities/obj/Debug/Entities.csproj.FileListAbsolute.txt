@@ -1,0 +1,12 @@
+c:\users\m.susa\documents\visual studio 2017\Projects\CarDealership\Entities\bin\Debug\Entities.dll.config
+c:\users\m.susa\documents\visual studio 2017\Projects\CarDealership\Entities\bin\Debug\Entities.dll
+c:\users\m.susa\documents\visual studio 2017\Projects\CarDealership\Entities\bin\Debug\Entities.pdb
+c:\users\m.susa\documents\visual studio 2017\Projects\CarDealership\Entities\bin\Debug\EntityFramework.dll
+c:\users\m.susa\documents\visual studio 2017\Projects\CarDealership\Entities\bin\Debug\EntityFramework.SqlServer.dll
+c:\users\m.susa\documents\visual studio 2017\Projects\CarDealership\Entities\bin\Debug\EntityFramework.xml
+c:\users\m.susa\documents\visual studio 2017\Projects\CarDealership\Entities\bin\Debug\EntityFramework.SqlServer.xml
+c:\users\m.susa\documents\visual studio 2017\Projects\CarDealership\Entities\obj\Debug\Entities.dll
+c:\users\m.susa\documents\visual studio 2017\Projects\CarDealership\Entities\obj\Debug\Entities.pdb
+c:\Users\m.susa\Documents\Visual Studio 2017\Projects\CarDealership\Entities\obj\Debug\Entities.csprojAssemblyReference.cache
+c:\Users\m.susa\Documents\Visual Studio 2017\Projects\CarDealership\Entities\obj\Debug\Entities.csproj.CoreCompileInputs.cache
+c:\Users\m.susa\Documents\Visual Studio 2017\Projects\CarDealership\Entities\obj\Debug\Entities.csproj.CopyComplete
